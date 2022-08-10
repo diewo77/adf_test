@@ -1,0 +1,9 @@
+{
+	"name": "adf-test-taki",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a40ff6c-5a00-4227-be17-e96cdef83fc8",
+		"tenantId": "4ddd0abb-7ec4-43cd-a42e-aa709f0c7fde"
+	}
+}
